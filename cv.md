@@ -1,6 +1,6 @@
 Hello, my name is Eugeni Bykovski.
 This is my CV.
-[GitHub](http://github.com)
+[GitHub](https://github.com/EugeniBykovski)
 
 1. Eugeni Bykovski
 2. email: bykovskieugeni@mail.ru
@@ -16,4 +16,10 @@ in JS (IBA, BellHard), constantly read various literature, and visit Internet so
 I also improve my English level at English Papa. At the moment I have an
 Intermediate level. My plus is that if something doesn’t work out for me, I definitely need to
 thoroughly understand until I understand to the end.
+4. I graduated from the magistracy of BNTU, Instrument Engineering Department. 
+I have completed JavaScript programming courses in IBA (Web Application Development). 
+They wrote small projects on React.js and Angular.js. I used the GitHub version control
+system and various frameworks and preprocessors, such as Bootstrap, Less, Sass.
+I have completed PHP programming courses at BellHard.
+I have completed online courses at htmlacademy.ru, codeacademy.com, learnjavascript.ru.
 
